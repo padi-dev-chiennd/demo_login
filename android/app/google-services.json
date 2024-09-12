@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560767238379",
+    "project_id": "logindemo-56f22",
+    "storage_bucket": "logindemo-56f22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560767238379:android:31c37cd1cba964bca7beae",
+        "android_client_info": {
+          "package_name": "com.example.demologin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArM5GmYXx1kpAgkZlomGWa8LyGO5NAgFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
